@@ -4,8 +4,8 @@ import "./output.css";
 import App from "./App.jsx";
 // import Navbar from "../";
 // import Footer from "../../Components/Footer.jsx";
-import Navbar from "../../Components/Navbar";
-import Footer from "../../Components/Footer";
+import Navbar from "./Components/Navbar.jsx";
+import Footer from "./Components/Footer.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
